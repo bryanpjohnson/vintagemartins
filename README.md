@@ -1,5 +1,5 @@
 # vintagemartins
-Static website for vintagemartins.com (maintainer but not author).
+Static website for <a href="https://vintagemartins.com/" target="_blank">vintagemartins.com</a> (maintainer but not author).
 
 <img src="images/old-guitar.png" width="40%">
 
